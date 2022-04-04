@@ -1,0 +1,15 @@
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/bin/Debug/net6.0/GameDevPythagoras
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/bin/Debug/net6.0/GameDevPythagoras.deps.json
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/bin/Debug/net6.0/GameDevPythagoras.runtimeconfig.json
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/bin/Debug/net6.0/GameDevPythagoras.dll
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/bin/Debug/net6.0/GameDevPythagoras.pdb
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/GameDevPythagoras.csproj.AssemblyReference.cache
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/GameDevPythagoras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/GameDevPythagoras.AssemblyInfoInputs.cache
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/GameDevPythagoras.AssemblyInfo.cs
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/GameDevPythagoras.csproj.CoreCompileInputs.cache
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/GameDevPythagoras.dll
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/refint/GameDevPythagoras.dll
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/GameDevPythagoras.pdb
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/GameDevPythagoras.genruntimeconfig.cache
+/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/Debug/net6.0/ref/GameDevPythagoras.dll
