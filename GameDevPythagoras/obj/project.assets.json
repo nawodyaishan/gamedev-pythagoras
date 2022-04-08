@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/GameDevPythagoras.csproj",
+      "projectUniqueName": "/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras.csproj",
       "projectName": "GameDevPythagoras",
-      "projectPath": "/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/GameDevPythagoras.csproj",
+      "projectPath": "/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras.csproj",
       "packagesPath": "/Users/nawodyaishan/.nuget/packages/",
-      "outputPath": "/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/GameDevPythagoras/obj/",
+      "outputPath": "/Users/nawodyaishan/Documents/GitHub/gamedev-pythagoras/GameDevPythagoras/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nawodyaishan/.nuget/NuGet/NuGet.Config"
